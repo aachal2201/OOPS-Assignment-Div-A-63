@@ -5,3 +5,4 @@ Roll No. - 63
 PRN - 1132220567
 Screenshots
 ![](Q1..png)
+![](Q2.png)
